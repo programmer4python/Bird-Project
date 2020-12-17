@@ -27,18 +27,18 @@ import ib_pc_fp_values
 
 
 #this graph takes a few minutes to run, the next 6 files display in tkinter window
-ib_1900_2020();
-pc_1900_2020();
+ib_1900_2020()
+pc_1900_2020()
 #the next graph takes a few minutes to run
-ib_amf();
-ib_bmf();
-pc_amf();
-pc_bmf();
+ib_amf()
+ib_bmf()
+pc_amf()
+pc_bmf()
 #the 2 graphs show in the Panes, plot area with tkinter button, the stats show in the console 
-describestats_an();
-describestats_ns();
-count_an();
-count_ns();
+describestats_an()
+describestats_ns()
+count_an()
+count_ns()
 #these stats show in the console window
-ib_pc_fp_values();
+ib_pc_fp_values()
 
